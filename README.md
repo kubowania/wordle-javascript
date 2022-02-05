@@ -4,7 +4,7 @@ A Game of Wordle with the benefit of 2x API from RapidAPI
 
 # Getting Started
 
-To start this project please  go to RapidAPI to sign up for a [the APIs](https://bit.ly/rapidapi-hub). 
+To start this project please go to RapidAPI to sign up for the [APIs](https://bit.ly/rapidapi-hub). 
 
 Follow the steps in the tutorial [here](https://www.youtube.com/watch?v=mpby4HiElek) on which APIs to use and how to use them.
 
